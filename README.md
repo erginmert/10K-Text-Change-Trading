@@ -22,6 +22,3 @@ Markets underreact to subtle textual changes in SEC 10-K filings. By measuring t
 
 - The strategy currently evaluates excess returns relative to the risk-free rate only (i.e., raw stock return minus risk-free rate).
 - A proper alpha estimation should incorporate market risk exposure (Beta) using factor models such as CAPM or Fama-French for more reliable inference.
-
-
-# 10K-Text-Change-Trading

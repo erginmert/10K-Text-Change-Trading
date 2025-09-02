@@ -1,6 +1,6 @@
 # 10-K Text Change Trading Strategy
 
-This project implements a systematic trading strategy based on textual differences in annual 10-K filings, inspired by the methodology of *Cohen et al. (2022), "Lazy Prices."* The core idea is to identify how changes in a firm's disclosures may carry predictive signals for stock returns, due to delayed price reactions by the market.
+This project implements a systematic trading strategy based on textual differences in annual 10-K filings, inspired by the methodology of *Cohen et al. (2020), "Lazy Prices."* The core idea is to identify how changes in a firm's disclosures may carry predictive signals for stock returns, due to delayed price reactions by the market.
 
 ## 💡 Idea
 
